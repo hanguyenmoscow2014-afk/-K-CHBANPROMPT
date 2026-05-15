@@ -1,0 +1,8 @@
+{
+  "name": "MasterScript AI - Professional Scriptwriter",
+  "description": "An AI-powered tool to rewrite scripts and generate detailed image/video prompts for creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
